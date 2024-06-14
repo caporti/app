@@ -1,11 +1,6 @@
-flask
-pandas
-numpy
-scikit_learn
-sqlalchemy
-gunicorn
-prodia
-BytesIO
-cv2
-cohere
-requests
+scikit-learn==1.5.0
+SQLAlchemy==2.0.30
+pandas==2.2.2
+numpy==1.26.4
+Flask==3.0.3
+gunicorn==22.0.0
